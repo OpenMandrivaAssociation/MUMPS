@@ -13,7 +13,7 @@ Release: 14%{?dist}
 Summary: A MUltifrontal Massively Parallel sparse direct Solver
 License: Public Domain
 
-URL: http://mumps.enseeiht.fr/
+URL: https://mumps.enseeiht.fr/
 Source0: http://mumps.enseeiht.fr/%{name}_%{version}.tar.gz
 
 # Custom Makefile changed for Fedora and built from Make.inc/Makefile.gfortran.PAR in the source.
