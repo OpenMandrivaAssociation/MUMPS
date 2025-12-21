@@ -27,6 +27,7 @@ Patch0: %{name}-examples-mpilibs.patch
 Patch1: %{name}-shared-pord.patch
 Patch2: %{name}-shared.patch
 
+BuildRequires:	make
 BuildRequires: openmpi-devel >= 1.7.2
 BuildRequires: blacs-openmpi-devel
 BuildRequires: gcc-gfortran, blas-devel, lapack-devel
